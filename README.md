@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=792ee5,2ebc4f,0078D4&height=220&section=header&text=raulimao%&fontSize=60" alt="Header Raul Lima" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=792ee5,2ebc4f,0078D4&height=220&section=header&text=Raul%20Oliveira&fontSize=60" alt="Header Raul Lima" />
 </div>
 
 <br />
